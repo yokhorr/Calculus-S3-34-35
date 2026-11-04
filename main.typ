@@ -22,6 +22,8 @@
 
 #include "sections/8.typ"
 
+#include "sections/9.typ"
+
 #pagebreak()
 
 #include "sections/info.typ"
